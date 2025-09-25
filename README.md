@@ -1,1 +1,1 @@
-# code of "Electrostatics facilitate host attachement in parasitic jumping nematodes", PNAS (2025)
+# code of "Electrostatics facilitate midair host attachement in parasitic jumping nematodes", PNAS (2025)
